@@ -11,7 +11,7 @@ Growth taught me where revenue comes from. Product taught me how to build what e
 - Leading a product team at [Adly](https://adly.com), a portfolio of internet businesses, where I built the internal AI platform
 - Building [WellNotes AI](https://wellnotesai.com): clinical documentation for therapists and behavior analysts
 - Building [Spinwait](https://spinwait.net): an ad network for AI coding agents that pays developers 70%
-- Open to advising tech startups on pricing and growth
+- Open to advising tech startups on product, pricing and growth
 
 ---
 
