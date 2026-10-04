@@ -1,6 +1,6 @@
 # I'm Robert 📒
 
-**AI-native product leader and forward deployed engineer.**\
+**AI-native product leader and forward deployed engineer.**
 
 I lead a product team at a portfolio of internet businesses.
 
