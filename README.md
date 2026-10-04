@@ -1,6 +1,7 @@
 # I'm Robert 📒
 
 **AI-native product leader and forward deployed engineer.**\
+
 I lead a product team at a portfolio of internet businesses.
 
 Growth taught me where revenue comes from. Product taught me how to build what earns it. AI agents let me do both myself.
