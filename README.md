@@ -2,7 +2,7 @@
 
 **Product leader at [Adly](https://adly.com)**: a portfolio of internet businesses. I build the systems that move the P&L: AI platforms, pricing engines and GTM plumbing, then hand them to teams.
 
-I started in growth, moved into product because the biggest levers sit inside it, and now ship my own products with AI agents.
+Growth taught me where revenue comes from. Product taught me how to build what earns it. AI agents let me do both myself.
 
 ---
 
