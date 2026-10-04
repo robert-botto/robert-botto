@@ -1,6 +1,6 @@
 # I'm Robert 📒
 
-**Product leader at [Adly](https://adly.com)**: a portfolio of internet businesses. I build the systems that move the P&L: AI platforms, pricing engines and GTM plumbing, then hand them to teams.
+**AI-native product leader.** I build AI products and platforms, and ship them with AI agents.
 
 Growth taught me where revenue comes from. Product taught me how to build what earns it. AI agents let me do both myself.
 
@@ -8,9 +8,9 @@ Growth taught me where revenue comes from. Product taught me how to build what e
 
 ## Currently
 
-- Leading the product team at [Adly](https://adly.com): pricing tests, mobile apps and an internal AI platform across the portfolio
+- Leading a product team at [Adly](https://adly.com), a portfolio of internet businesses, where I built the internal AI platform
 - Building [WellNotes AI](https://wellnotesai.com): clinical documentation for therapists and behavior analysts
-- Building Spinwait: an ad network for AI coding agents that pays developers 70%
+- Building [Spinwait](https://spinwait.net): an ad network for AI coding agents that pays developers 70%
 - Open to advising tech startups on pricing and growth
 
 ---
