@@ -1,4 +1,4 @@
-# I'm Robert 🔓
+# I'm Robert 🔑
 
 **AI-native product leader and forward deployed engineer.**
 
