@@ -12,7 +12,7 @@ Selected work, case studies and advisory: **[robertbotto.com](https://robertbott
 
 ## Currently
 
-- Leading a product team at [Adly](https://adly.com), a portfolio of internet businesses, where I built the internal AI platform
+- Leading a product team at a private equity firm that owns a portfolio of internet businesses, where I built the internal AI platform
 - Bootstrapping SaaS: [WellNotes AI](https://wellnotesai.com), [Spinwait](https://spinwait.net), and a few others that are early on
 - Open to advising tech startups on product, pricing and growth: [how it works](https://robertbotto.com/advisory)
 
