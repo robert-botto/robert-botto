@@ -18,6 +18,6 @@ Selected work, case studies and advisory: **[robertbotto.com](https://robertbott
 
 ---
 
-[![Website](https://img.shields.io/badge/robertbotto.com-2F5BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://robertbotto.com)
+[![Website](https://img.shields.io/badge/robertbotto.com-2F5BFF?style=for-the-badge&logo=googlechrome&logoColor=white&cacheSeconds=86400)](https://robertbotto.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/robertbotto_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertbotto/)
